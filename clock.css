@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #121212;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.digital-clock {
+  background: #222;
+  color: #0f0;
+  font-size: 60px;
+  padding: 20px 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #0f0;
+  letter-spacing: 3px;
+}
